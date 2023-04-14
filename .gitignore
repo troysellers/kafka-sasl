@@ -1,0 +1,5 @@
+target/
+creds/
+.vscode/
+.env
+.DS_Store
